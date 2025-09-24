@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Chiang Juo Han!
+## Hi there 👋 I'm Joe!
 
 <!-- Introduction -->
 I'm a Software Engineering student at Asia Pacific University of Technology & Innovation (APU), passionate about full-stack development and mobile applications.
