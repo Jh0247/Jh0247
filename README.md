@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Jh0247&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="150" src="https://streak-stats.demolab.com?user=Jh0247&theme=tokyonight&hide_border=true" alt="GitHub streak" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jh0247&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 
